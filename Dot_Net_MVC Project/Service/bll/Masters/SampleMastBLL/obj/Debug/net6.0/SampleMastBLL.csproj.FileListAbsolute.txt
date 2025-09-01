@@ -1,0 +1,85 @@
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.deps.json
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.runtimeconfig.json
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.pdb
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.dll
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CopyComplete
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.dll
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\refint\SampleMastBLL.dll
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.pdb
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\SKMS Projects\New Project\bll\Masters\SampleMastBLL\obj\Debug\net6.0\ref\SampleMastBLL.dll
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.dll
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\refint\SampleMastBLL.dll
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.pdb
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.deps.json
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.runtimeconfig.json
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.pdb
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CopyComplete
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\Dotnet Projects\bll\Masters\SampleMastBLL\obj\Debug\net6.0\ref\SampleMastBLL.dll
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.deps.json
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.runtimeconfig.json
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.pdb
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CopyComplete
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.dll
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\refint\SampleMastBLL.dll
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.pdb
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\Dotnet Projects\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\ref\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.runtimeconfig.json
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\refint\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\SampleMastBLL\obj\Debug\net6.0\ref\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\refint\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.runtimeconfig.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SampleMastBLL\obj\Debug\net6.0\ref\SampleMastBLL.dll

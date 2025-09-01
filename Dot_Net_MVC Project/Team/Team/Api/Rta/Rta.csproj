@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="wwwroot\Isr1_image\**" />
+    <Compile Remove="wwwroot\Isr2_image\**" />
+    <Content Remove="wwwroot\Isr1_image\**" />
+    <Content Remove="wwwroot\Isr2_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr1_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr2_image\**" />
+    <None Remove="wwwroot\Isr1_image\**" />
+    <None Remove="wwwroot\Isr2_image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="ComplaintMasterBLL">
+      <HintPath>..\..\bll\Masters\ComplaintMasterBLL\bin\Debug\net6.0\ComplaintMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ComplaintTrxMasterBLL">
+      <HintPath>..\..\bll\Masters\ComplaintTrxMasterBLL\bin\Debug\net6.0\ComplaintTrxMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Isr2BLL">
+      <HintPath>..\..\bll\Masters\Isr2BLL\bin\Debug\net6.0\Isr2BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Isr3BLL">
+      <HintPath>..\..\bll\Masters\Isr3BLL\bin\Debug\net6.0\Isr3BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="LoginDB">
+      <HintPath>..\..\bll\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+    </Reference>
+    <Reference Include="CompDB">
+      <HintPath>..\..\bll\databases\comp_db\bin\Debug\net6.0\CompDB.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonMstBLL">
+      <HintPath>..\..\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ReqRecBLL">
+      <HintPath>..\..\bll\Masters\ReqRecBLL\bin\Debug\net6.0\ReqRecBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SampleMastBLL">
+      <HintPath>..\..\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CompMstBLL">
+      <HintPath>..\..\bll\Masters\CompMstBLL\bin\Debug\net6.0\CompMstBLL.dll</HintPath>
+    </Reference>
+	<Reference Include="isrBLL">
+	<HintPath>..\..\bll\Masters\isrBLL\bin\Debug\net6.0\isrBLL.dll</HintPath>
+	</Reference>
+	<Reference Include="Sh13BLL">
+	  <HintPath>..\..\bll\Masters\Sh13BLL\bin\Debug\net6.0\Sh13BLL.dll</HintPath>
+	</Reference>
+	<Reference Include="Sh14BLL">
+	  <HintPath>..\..\bll\Masters\Sh14BLL\bin\Debug\net6.0\Sh14BLL.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>

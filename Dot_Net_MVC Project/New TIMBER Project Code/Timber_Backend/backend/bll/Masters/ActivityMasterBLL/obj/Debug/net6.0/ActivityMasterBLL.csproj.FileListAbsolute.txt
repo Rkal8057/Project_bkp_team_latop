@@ -1,0 +1,36 @@
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.runtimeconfig.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.exe
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\refint\ActivityMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ref\ActivityMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.deps.json
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.runtimeconfig.json
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.exe
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\ActivityMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\Activity.52B64A93.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\refint\ActivityMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ActivityMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\ActivityMasterBLL\obj\Debug\net6.0\ref\ActivityMasterBLL.dll

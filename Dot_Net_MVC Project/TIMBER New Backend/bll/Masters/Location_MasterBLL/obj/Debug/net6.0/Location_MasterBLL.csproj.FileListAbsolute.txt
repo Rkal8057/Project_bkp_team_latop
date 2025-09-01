@@ -1,0 +1,40 @@
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\refint\Location_MasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\ref\Location_MasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location.5CC6F3AF.Up2Date
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\refint\Location_MasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\Location_MasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\Location_MasterBLL\obj\Debug\net6.0\ref\Location_MasterBLL.dll

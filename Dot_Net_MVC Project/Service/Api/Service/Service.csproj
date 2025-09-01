@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.0" />
+    <PackageReference Include="DocX" Version="2.5.0" />
+    <PackageReference Include="MailKit" Version="4.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="ApplicationMasterBLL">
+      <HintPath>..\..\bll\Masters\ApplicationMasterBLL\bin\Debug\net6.0\ApplicationMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CategoryMasterBLL">
+      <HintPath>..\..\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CheckListMasterBLL">
+      <HintPath>..\..\bll\Masters\CheckListMasterBLL\bin\Debug\net6.0\CheckListMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CorrespondenceRequestBLL">
+      <HintPath>..\..\bll\Masters\CorrespondenceRequestBLL\bin\Debug\net6.0\CorrespondenceRequestBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="GeneralRequestedBLL">
+      <HintPath>..\..\bll\Masters\GeneralRequestedBLL\bin\Debug\net6.0\GeneralRequestedBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="HolderDetailBLL">
+      <HintPath>..\..\bll\Masters\HolderDetailBLL\bin\Debug\net6.0\HolderDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="KYCDetailBLL">
+      <HintPath>..\..\bll\Masters\KYCDetailBLL\bin\Debug\net6.0\KYCDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="LoginDB">
+      <HintPath>..\..\bll\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+    </Reference>
+    <Reference Include="NomineeDetailBLL">
+      <HintPath>..\..\bll\Masters\NomineeDetailBLL\bin\Debug\net6.0\NomineeDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="NSDLMasterBLL">
+      <HintPath>..\..\bll\Masters\NSDLMasterBLL\bin\Debug\net6.0\NSDLMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="PartyMasterDLL">
+      <HintPath>..\..\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SalesMasterDLL">
+      <HintPath>..\..\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SalesTrxMasterBLL">
+      <HintPath>..\..\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="SampleMastBLL">
+      <HintPath>..\..\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="ServiceMasterBLL">
+      <HintPath>..\..\bll\Masters\ServiceMasterBLL\bin\Debug\net6.0\ServiceMasterBLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="wwwroot\Isr1_image\" />
+    <Folder Include="wwwroot\Isr2_image\" />
+    <Folder Include="wwwroot\ApplicationTemplate\" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\bll\Masters\NomineeDetailBLL\NomineeDetailBLL.csproj" />
+  </ItemGroup>
+
+</Project>

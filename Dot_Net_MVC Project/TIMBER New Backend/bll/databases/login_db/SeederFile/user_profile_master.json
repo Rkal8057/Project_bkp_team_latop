@@ -1,0 +1,2 @@
+[{"id":1, "user_profile":"admin", "save_yes_no":"yes", "modify_yes_no":"yes", "delete_yes_no":"yes", "print_only":"yes", "report_yes_no":"yes", "view_yes_no":"yes"},
+ {"id":2, "user_profile":"customer", "save_yes_no":"yes", "modify_yes_no":"yes", "delete_yes_no":"yes", "print_only":"yes", "report_yes_no":"yes", "view_yes_no":"yes"}]

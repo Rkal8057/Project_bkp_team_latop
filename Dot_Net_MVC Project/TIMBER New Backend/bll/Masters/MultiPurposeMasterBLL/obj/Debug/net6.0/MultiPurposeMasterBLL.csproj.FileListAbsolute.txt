@@ -1,0 +1,37 @@
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.deps.json
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.runtimeconfig.json
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.pdb
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\LoginDB.dll
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.csproj.AssemblyReference.cache
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.AssemblyInfoInputs.cache
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.AssemblyInfo.cs
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.csproj.CoreCompileInputs.cache
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.csproj.CopyComplete
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\refint\MultiPurposeMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.pdb
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.genruntimeconfig.cache
+C:\Project\School SoftWare\bll\Master\MultiPurposeMasterBLL\obj\Debug\net6.0\ref\MultiPurposeMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPur.5FF37E1B.Up2Date
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\refint\MultiPurposeMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\MultiPurposeMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\MultiPurposeMasterBLL\obj\Debug\net6.0\ref\MultiPurposeMasterBLL.dll

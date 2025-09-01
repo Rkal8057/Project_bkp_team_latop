@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="wwwroot\Isr1_image\**" />
+    <Compile Remove="wwwroot\Isr2_image\**" />
+    <Content Remove="wwwroot\Isr1_image\**" />
+    <Content Remove="wwwroot\Isr2_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr1_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr2_image\**" />
+    <None Remove="wwwroot\Isr1_image\**" />
+    <None Remove="wwwroot\Isr2_image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="CaseHireMasterBLL">
+      <HintPath>..\..\bll\Masters\CaseHireMasterBLL\bin\Debug\net6.0\CaseHireMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CaseMasterBLL">
+      <HintPath>..\..\bll\Masters\CaseMasterBLL\bin\Debug\net6.0\CaseMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CompanyDetailBLL">
+      <HintPath>..\..\bll\Masters\CompanyDetailBLL\bin\Debug\net6.0\CompanyDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="LoginDB">
+      <HintPath>..\..\bll\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+    </Reference>
+    <Reference Include="ReceiptMasterBLL">
+      <HintPath>..\..\bll\Masters\ReceiptMasterBLL\bin\Debug\net6.0\ReceiptMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="SampleMastBLL">
+      <HintPath>..\..\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

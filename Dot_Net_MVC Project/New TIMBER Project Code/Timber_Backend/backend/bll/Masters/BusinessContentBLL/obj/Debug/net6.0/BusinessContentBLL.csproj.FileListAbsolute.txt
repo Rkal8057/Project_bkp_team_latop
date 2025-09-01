@@ -1,0 +1,38 @@
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\refint\BusinessContentBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\ref\BusinessContentBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\Business.A88E8FBD.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\refint\BusinessContentBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\BusinessContentBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessContentBLL\obj\Debug\net6.0\ref\BusinessContentBLL.dll

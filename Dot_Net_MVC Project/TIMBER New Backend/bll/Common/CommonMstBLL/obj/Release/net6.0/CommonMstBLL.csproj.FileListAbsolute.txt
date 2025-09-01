@@ -1,0 +1,17 @@
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\CommonMstBLL.deps.json
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\CommonMstBLL.runtimeconfig.json
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\CommonMstBLL.dll
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\CommonMstBLL.pdb
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\LoginDB.dll
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\bin\Release\net6.0\LoginDB.pdb
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMs.B6E717DF.Up2Date
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.dll
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\refint\CommonMstBLL.dll
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.pdb
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\WebApps\ecommerce\backend\bll\Common\CommonMstBLL\obj\Release\net6.0\ref\CommonMstBLL.dll

@@ -1,0 +1,17 @@
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\SampleMastBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\SampleMastBLL.runtimeconfig.json
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\SampleMastBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\SampleMastBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\bin\Release\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMa.9CF46955.Up2Date
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\refint\SampleMastBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\SampleMastBLL.genruntimeconfig.cache
+D:\WebApps\timber\backend\bll\Masters\SampleMastBLL\obj\Release\net6.0\ref\SampleMastBLL.dll

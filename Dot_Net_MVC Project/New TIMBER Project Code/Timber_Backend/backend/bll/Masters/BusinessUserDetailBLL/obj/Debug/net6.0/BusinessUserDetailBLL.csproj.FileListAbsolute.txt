@@ -1,0 +1,36 @@
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\refint\BusinessUserDetailBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\ref\BusinessUserDetailBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\Business.713699C0.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\refint\BusinessUserDetailBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\BusinessUserDetailBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\BusinessUserDetailBLL\obj\Debug\net6.0\ref\BusinessUserDetailBLL.dll

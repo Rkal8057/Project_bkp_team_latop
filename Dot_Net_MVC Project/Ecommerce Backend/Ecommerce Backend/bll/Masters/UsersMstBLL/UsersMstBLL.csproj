@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+     <PackageReference Include="MailKit" Version="4.4.0" />
+    <PackageReference Include="MimeKit" Version="4.4.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="LoginDB">
+      <HintPath>..\..\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonMstBLL">
+      <HintPath>..\..\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

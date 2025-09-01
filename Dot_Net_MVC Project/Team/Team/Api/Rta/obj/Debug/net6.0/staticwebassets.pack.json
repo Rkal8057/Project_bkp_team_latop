@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\9AYrhKgPr7_rta api documentation.pdf",
+      "PackagePath": "staticwebassets\\complainted_file\\9AYrhKgPr7_rta api documentation.pdf"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\AbWVSDeoof_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_file\\AbWVSDeoof_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\Mni7jYypbf_rta api documentation.pdf",
+      "PackagePath": "staticwebassets\\complainted_file\\Mni7jYypbf_rta api documentation.pdf"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\TFP752T8WT_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_file\\TFP752T8WT_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\TZazNyHMeh_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_file\\TZazNyHMeh_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\TupgHhpKYP_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_file\\TupgHhpKYP_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\vRQqV8Fxju_rta api documentation.pdf",
+      "PackagePath": "staticwebassets\\complainted_file\\vRQqV8Fxju_rta api documentation.pdf"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_file\\weGEHkkBNm_Empuls SDK Documentation (1).pdf",
+      "PackagePath": "staticwebassets\\complainted_file\\weGEHkkBNm_Empuls SDK Documentation (1).pdf"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_reply_file\\2qMf4JxHuE_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_reply_file\\2qMf4JxHuE_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_reply_file\\NnzfcjzIqE_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\complainted_reply_file\\NnzfcjzIqE_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_reply_file\\sly8WBWpT5_Appraisal.PDF",
+      "PackagePath": "staticwebassets\\complainted_reply_file\\sly8WBWpT5_Appraisal.PDF"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Team\\Team\\Api\\Rta\\wwwroot\\complainted_reply_file\\xSaDN0FIgO_rta api documentation.pdf",
+      "PackagePath": "staticwebassets\\complainted_reply_file\\xSaDN0FIgO_rta api documentation.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Rta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Rta.props",
+      "PackagePath": "build\\Rta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Rta.props",
+      "PackagePath": "buildMultiTargeting\\Rta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Rta.props",
+      "PackagePath": "buildTransitive\\Rta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

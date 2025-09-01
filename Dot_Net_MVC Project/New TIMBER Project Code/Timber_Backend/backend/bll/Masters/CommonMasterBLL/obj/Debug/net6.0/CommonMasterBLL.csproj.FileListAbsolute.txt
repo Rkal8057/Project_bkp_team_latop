@@ -1,0 +1,38 @@
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\refint\CommonMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\ref\CommonMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMa.2B0BA8C1.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\refint\CommonMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\CommonMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\CommonMasterBLL\obj\Debug\net6.0\ref\CommonMasterBLL.dll

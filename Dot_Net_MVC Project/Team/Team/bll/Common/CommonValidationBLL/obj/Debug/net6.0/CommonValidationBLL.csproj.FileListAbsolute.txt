@@ -1,0 +1,5 @@
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Common\CommonValidationBLL\obj\Debug\net6.0\CommonValidationBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Common\CommonValidationBLL\obj\Debug\net6.0\CommonValidationBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Common\CommonValidationBLL\obj\Debug\net6.0\CommonValidationBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Common\CommonValidationBLL\obj\Debug\net6.0\CommonValidationBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Common\CommonValidationBLL\obj\Debug\net6.0\CommonValidationBLL.csproj.CoreCompileInputs.cache

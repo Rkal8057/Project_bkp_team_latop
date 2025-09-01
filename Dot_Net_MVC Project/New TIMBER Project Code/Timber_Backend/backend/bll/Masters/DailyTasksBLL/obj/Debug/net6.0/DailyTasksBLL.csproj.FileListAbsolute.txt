@@ -1,0 +1,38 @@
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\refint\DailyTasksBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\ref\DailyTasksBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTas.BF3A3431.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\refint\DailyTasksBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\DailyTasksBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\DailyTasksBLL\obj\Debug\net6.0\ref\DailyTasksBLL.dll

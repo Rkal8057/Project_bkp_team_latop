@@ -1,0 +1,12 @@
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\bin\Debug\net6.0\ComplaintTrxMaster.deps.json
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\bin\Debug\net6.0\ComplaintTrxMaster.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\bin\Debug\net6.0\ComplaintTrxMaster.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\refint\ComplaintTrxMaster.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ComplaintTrxMaster.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ComplaintTrxMaster\obj\Debug\net6.0\ref\ComplaintTrxMaster.dll

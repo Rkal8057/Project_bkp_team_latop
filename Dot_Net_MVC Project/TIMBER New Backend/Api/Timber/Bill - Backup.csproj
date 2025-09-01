@@ -1,0 +1,157 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="wwwroot\Isr1_image\**" />
+    <Compile Remove="wwwroot\Isr2_image\**" />
+    <Content Remove="wwwroot\Isr1_image\**" />
+    <Content Remove="wwwroot\Isr2_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr1_image\**" />
+    <EmbeddedResource Remove="wwwroot\Isr2_image\**" />
+    <None Remove="wwwroot\Isr1_image\**" />
+    <None Remove="wwwroot\Isr2_image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="32.0.3" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.2" />
+    <PackageReference Include="MailKit" Version="4.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	<PackageReference Include="System.Text.Json" Version="8.0.4" />
+
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="AggrementMasterBLL">
+      <HintPath>..\..\bll\Masters\AggrementMasterBLL\bin\Debug\net6.0\AggrementMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Bill_Rent_MasterBLL">
+      <HintPath>..\..\bll\Masters\Bill_Rent_MasterBLL\bin\Debug\net6.0\Bill_Rent_MasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="BlogMasterBLL">
+      <HintPath>..\..\bll\Masters\BlogMasterBLL\bin\Debug\net6.0\BlogMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessContentBLL">
+      <HintPath>..\..\bll\Masters\BusinessContentBLL\bin\Debug\net6.0\BusinessContentBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessSectionBLL">
+      <HintPath>..\..\bll\Masters\BusinessSectionBLL\bin\Debug\net6.0\BusinessSectionBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessUserDetailBLL">
+      <HintPath>..\..\bll\Masters\BusinessUserDetailBLL\bin\Debug\net6.0\BusinessUserDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CaseMasterBLL">
+      <HintPath>..\..\bll\Masters\CaseMasterBLL\bin\Debug\net6.0\CaseMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ActivityNameMasterBLL">
+      <HintPath>..\..\bll\Masters\ActivityNameMasterBLL\bin\Debug\net6.0\ActivityNameMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CheckListMasterBLL">
+      <HintPath>..\..\bll\Masters\CheckListMasterBLL\bin\Debug\net6.0\CheckListMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientMasterBLL">
+      <HintPath>..\..\bll\Masters\ClientMasterBLL\bin\Debug\net6.0\ClientMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonMasterBLL">
+      <HintPath>..\..\bll\Masters\CommonMasterBLL\bin\Debug\net6.0\CommonMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ContactMasterBLL">
+      <HintPath>..\..\bll\Masters\ContactMasterBLL\bin\Debug\net6.0\ContactMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="DailyTasksBLL">
+      <HintPath>..\..\bll\Masters\DailyTasksBLL\bin\Debug\net6.0\DailyTasksBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="FormMasterBLL">
+      <HintPath>..\..\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="GeneralRequestedBLL">
+      <HintPath>..\..\bll\Masters\GeneralRequestedBLL\bin\Debug\net6.0\GeneralRequestedBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="HelperFlagMasterBLL">
+      <HintPath>..\..\bll\Masters\HelperFlagMasterBLL\bin\Debug\net6.0\HelperFlagMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="HelperMasterBLL">
+      <HintPath>..\..\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="IssueReceiptBLL">
+      <HintPath>..\..\bll\Masters\IssueReceiptBLL\bin\Debug\net6.0\IssueReceiptBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ItemMasterBLL">
+      <HintPath>..\..\bll\Masters\ItemMasterBLL\bin\Debug\net6.0\ItemMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Location_MasterBLL">
+      <HintPath>..\..\bll\Masters\Location_MasterBLL\bin\Debug\net6.0\Location_MasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="LoginDB">
+      <HintPath>..\..\bll\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+    </Reference>
+    <Reference Include="NewBusinessUserDetailBLL">
+      <HintPath>..\..\bll\Masters\NewBusinessUserDetailBLL\bin\Debug\net6.0\NewBusinessUserDetailBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="PartyActivityNameMasterBLL">
+      <HintPath>..\..\bll\Masters\PartyActivityNameMasterBLL\bin\Debug\net6.0\PartyActivityNameMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="PartyItemRateMasterBLL">
+      <HintPath>..\..\bll\Masters\PartyItemRateMasterBLL\bin\Debug\net6.0\PartyItemRateMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="PartyMasterDLL">
+      <HintPath>..\..\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="PortfolioMasterBLL">
+      <HintPath>..\..\bll\Masters\PortfolioMasterBLL\bin\Debug\net6.0\PortfolioMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ReviewMasterBLL">
+      <HintPath>..\..\bll\Masters\ReviewMasterBLL\bin\Debug\net6.0\ReviewMasterBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SalesMasterDLL">
+      <HintPath>..\..\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="SalesTrxMasterBLL">
+      <HintPath>..\..\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="SampleMastBLL">
+      <HintPath>..\..\bll\Masters\SampleMastBLL\bin\Debug\net6.0\SampleMastBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="ServiceMasterBLL">
+      <HintPath>..\..\bll\Masters\ServiceMasterBLL\bin\Debug\net6.0\ServiceMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="SliderMasterBLL">
+      <HintPath>..\..\bll\Masters\SliderMasterBLL\bin\Debug\net6.0\SliderMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="StyleMasterBLL">
+      <HintPath>..\..\bll\Masters\StyleMasterBLL\bin\Debug\net6.0\StyleMasterBLL.dll</HintPath>
+    </Reference>  
+    <Reference Include="System_RecordsBLL">
+      <HintPath>..\..\bll\Masters\System_RecordsBLL\bin\Debug\net6.0\System_RecordsBLL.dll</HintPath>
+    </Reference>
+
+    <Reference Include="CommonMstBLL">
+      <HintPath>..\..\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiPurposeMasterBLL">
+		  <HintPath>..\..\bll\Masters\MultiPurposeMasterBLL\bin\Debug\net6.0\MultiPurposeMasterBLL.dll</HintPath>
+		</Reference>
+    <Reference Include="UsersMstBLL">
+      <HintPath>..\..\bll\Masters\UsersMstBLL\bin\Debug\net6.0\UsersMstBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="VoucherMasterBLL">
+      <HintPath>..\..\bll\Masters\VoucherMasterBLL\bin\Debug\net6.0\VoucherMasterBLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\Common_Csv\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+		<PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.11" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SampleMastBLL\SampleMastBLL.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<Reference Include="LoginDB">
+			<HintPath>..\..\databases\login_db\bin\Debug\net6.0\LoginDB.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

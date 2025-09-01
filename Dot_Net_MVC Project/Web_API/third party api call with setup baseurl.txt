@@ -1,0 +1,128 @@
+// Program.cs file
+
+    services.AddHttpClient("MyApiClient", client =>
+    {
+        // Configure the base URL here
+        client.BaseAddress = new Uri("https://api.example.com"); // Replace with your API base URL
+        // Additional HttpClient configuration if needed
+    });
+
+
+Controller.cs file 
+
+using Microsoft.AspNetCore.Mvc;
+using System.Net.Http;
+
+public class YourController : Controller
+{
+    private readonly IHttpClientFactory _httpClientFactory;
+
+    public YourController(IHttpClientFactory httpClientFactory)
+    {
+        _httpClientFactory = httpClientFactory;
+    }
+
+    // Your controller actions
+}
+
+
+public async Task<IActionResult> CallApi()
+{
+    var httpClient = _httpClientFactory.CreateClient("MyApiClient");
+
+    // You can now use httpClient to make requests to your API
+    var response = await httpClient.GetAsync("api/someendpoint");
+
+    if (response.IsSuccessStatusCode)
+    {
+        // Process the response content
+        var content = await response.Content.ReadAsStringAsync();
+        // ...
+    }
+    else
+    {
+        // Handle error response
+        // ...
+    }
+
+    // Your action logic
+}
+////////////////////////////////////////////////// Function 
+
+ASP NET CORE 
+
+1. ActionResult vs 
+2. IActionResult vs 
+3. Task<IActionResult> vs 
+4. Task<ActionResult>
+
+
+
+
+///////////////////////////////////////////////array list dictionary object
+//Dictionary
+var person1 = new Dictionary<string, object>
+  {
+      { "Name", "John" },
+      { "Age", 30 },
+      { "IsStudent", true }
+  };
+
+//List
+List<object> objects = new List<object>
+  {
+      new { Name = "John", Age = 30, IsStudent = true },
+      new { Name = "Alice", Age = 25, IsStudent = false }
+  };
+
+
+
+
+
+1. Single-dimensional array ( Array )
+
+   type[] arrayName = new type[size];
+   type[] arrayName = new type[] { element1, element2, ..., elementN };
+   type[] arrayName = { element1, element2, ..., elementN };
+
+
+ var objects = new[]
+  {
+      new { Name = "John", Age = 30, IsStudent = true },
+      new { Name = "Alice", Age = 25, IsStudent = false }
+  };
+
+object [] objects =
+  {
+   new { Name = "John", Age = 30, IsStudent = true },
+   new { Name = "Alice", Age = 25, IsStudent = false }
+  };
+
+
+2. Multi-dimensional array
+
+   type[,] arrayName = new type[rows, columns];
+
+
+3. Object 
+
+   object obj = new object();
+	
+   var person = new
+   {
+      Name = "John",
+      Age = 30,
+      IsStudent = true
+   }; 
+
+4. List declaration
+
+   List<T> listName = new List<T>();
+
+   List<int> numbers = new List<int>();
+
+5. List initialization
+	
+   List<T> listName = new List<T> { element1, element2, ... };
+
+

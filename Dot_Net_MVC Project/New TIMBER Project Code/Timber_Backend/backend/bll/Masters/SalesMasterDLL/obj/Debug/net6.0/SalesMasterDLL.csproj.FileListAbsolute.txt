@@ -1,0 +1,79 @@
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\refint\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\ref\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\refint\SalesMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\ref\SalesMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMas.30480FD8.Up2Date
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\refint\SalesMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\ref\SalesMasterDLL.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\SalesMasterDLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMas.30480FD8.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\refint\SalesMasterDLL.dll
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\SalesMasterDLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\SalesMasterDLL\obj\Debug\net6.0\ref\SalesMasterDLL.dll

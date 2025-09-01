@@ -1,0 +1,98 @@
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\refint\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Ecommerce Backend\Ecommerce Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\ref\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\refint\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\ref\HelperMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMa.2B859A92.Up2Date
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\refint\HelperMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\ref\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\refint\HelperMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\ref\HelperMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.deps.json
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\HelperMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.AssemblyReference.cache
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfoInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.AssemblyInfo.cs
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.csproj.CoreCompileInputs.cache
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMa.2B859A92.Up2Date
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\refint\HelperMasterBLL.dll
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\HelperMasterBLL.pdb
+D:\team\rohit\timber\backend\bll\Masters\HelperMasterBLL\obj\Debug\net6.0\ref\HelperMasterBLL.dll

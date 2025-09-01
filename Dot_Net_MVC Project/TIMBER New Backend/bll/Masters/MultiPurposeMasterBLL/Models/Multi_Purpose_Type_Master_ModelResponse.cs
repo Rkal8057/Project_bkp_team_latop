@@ -1,0 +1,20 @@
+﻿using DB.Login.Tables;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+namespace RTA.Masters.Models
+{
+    public class Multi_Purpose_Type_Master_ModelResponse
+    {
+
+        public bool status { get; set; }
+        public string? Message { get; set; }
+        public List<Multi_Purpose_Type_Master>? Data { get; set; }
+
+    }
+}

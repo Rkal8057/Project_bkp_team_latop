@@ -1,0 +1,85 @@
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CopyComplete
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CopyComplete
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+C:\Project\Rta\Team\RTA_9_11\rta\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CopyComplete
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\Dotnet Testing\heena\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+D:\ecommerce\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CopyComplete
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\ecommerce\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMs.B6E717DF.Up2Date
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\WebApps\timber\backend\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll

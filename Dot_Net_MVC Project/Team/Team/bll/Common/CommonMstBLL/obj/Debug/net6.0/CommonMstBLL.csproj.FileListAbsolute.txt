@@ -1,0 +1,17 @@
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.AssemblyReference.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfoInputs.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.AssemblyInfo.cs
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.deps.json
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.runtimeconfig.json
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.csproj.CopyComplete
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\refint\CommonMstBLL.dll
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.pdb
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\CommonMstBLL.genruntimeconfig.cache
+D:\Dotnet Projects\bll\Common\CommonMstBLL\obj\Debug\net6.0\ref\CommonMstBLL.dll

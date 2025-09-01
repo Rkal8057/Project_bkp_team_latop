@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\ApplicationTemplate\\sick_leave.docx",
+      "PackagePath": "staticwebassets\\ApplicationTemplate\\sick_leave.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\0NHJg9DXbn_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\0NHJg9DXbn_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\0paDBVMuNv_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\0paDBVMuNv_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\0wcTsiFWtK_ezgif.com-gif-maker.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\0wcTsiFWtK_ezgif.com-gif-maker.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\13yw6BveHD_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\13yw6BveHD_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\4bATWA39eh_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\4bATWA39eh_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\7II2quLiWW_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\7II2quLiWW_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\8QyyoBUrNS_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\8QyyoBUrNS_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\9kuUP90IPG_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\9kuUP90IPG_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\B55NJwogqp_website.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\B55NJwogqp_website.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\Djhrkn9RHs_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\Djhrkn9RHs_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\Gkf8pj8H9M_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\Gkf8pj8H9M_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\IOpO7ljctS_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\IOpO7ljctS_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\N0EMyz3tpO_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\N0EMyz3tpO_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\RRrLW5r3wm_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\RRrLW5r3wm_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\VXjbJTRQfI_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\VXjbJTRQfI_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\XaSUHAWkDH_ezgif.com-gif-maker.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\XaSUHAWkDH_ezgif.com-gif-maker.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\Z9wAFYtqBN_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\Z9wAFYtqBN_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\b28iko98cH_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\b28iko98cH_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\haAh9aaPor_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\haAh9aaPor_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\na2bc58Ej9_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\na2bc58Ej9_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\oeDTlSCfhy_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\oeDTlSCfhy_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\qO7WtSi6Ex_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\qO7WtSi6Ex_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\qWoTYGQnLw_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\qWoTYGQnLw_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\rf5u4u56ox_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\rf5u4u56ox_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\vg5GjAqVSh_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\vg5GjAqVSh_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\vx5btjQvOx_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\vx5btjQvOx_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\wsVCkZpkB0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\wsVCkZpkB0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\xyvVF80SqW_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\xyvVF80SqW_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\ylYinU2xez_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\ylYinU2xez_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\GeneralRequested_image\\zmjiwXabsU_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\GeneralRequested_image\\zmjiwXabsU_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113132113_Delhi-Metro-Logo-PNG.jpg",
+      "PackagePath": "staticwebassets\\Header_image\\20240113132113_Delhi-Metro-Logo-PNG.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113132248_Delhi-Metro-Logo-PNG.jpg",
+      "PackagePath": "staticwebassets\\Header_image\\20240113132248_Delhi-Metro-Logo-PNG.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113132402_Delhi-Metro-Logo-PNG.jpg",
+      "PackagePath": "staticwebassets\\Header_image\\20240113132402_Delhi-Metro-Logo-PNG.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113135241_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Header_image\\20240113135241_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113142303_Delhi-Metro-Logo-PNG.jpg",
+      "PackagePath": "staticwebassets\\Header_image\\20240113142303_Delhi-Metro-Logo-PNG.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Header_image\\20240113150830_Delhi-Metro-Logo-PNG.jpg",
+      "PackagePath": "staticwebassets\\Header_image\\20240113150830_Delhi-Metro-Logo-PNG.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113132113_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113132113_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113132248_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113132248_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113132401_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113132401_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113133352_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113133352_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113135240_ezgif.com-gif-maker.jpg",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113135240_ezgif.com-gif-maker.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113142303_tiger_photo.jpg",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113142303_tiger_photo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\Signature_image\\20240113150830_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "PackagePath": "staticwebassets\\Signature_image\\20240113150830_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109121916.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109121916.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109135512.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109135512.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109135722.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109135722.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109165931.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109165931.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109170047.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109170047.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109170052.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109170052.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109170415.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109170415.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109171836.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109171836.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109172111.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109172111.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240109172343.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240109172343.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113132114.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113132114.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113132316.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113132316.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113132415.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113132415.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113133431.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113133431.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113134013.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113134013.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113135252.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113135252.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113142311.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113142311.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113144322.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113144322.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113144443.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113144443.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113144821.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113144821.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\LeaveRequest_20240113150831.docx",
+      "PackagePath": "staticwebassets\\documents\\LeaveRequest_20240113150831.docx"
+    },
+    {
+      "Id": "D:\\Project\\Dot_Net_MVC Project\\Service\\Api\\Service\\wwwroot\\documents\\updated_27b8cf3d78f648e398eaba345b2520a0_sick_leave.docx",
+      "PackagePath": "staticwebassets\\documents\\updated_27b8cf3d78f648e398eaba345b2520a0_sick_leave.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Service.props",
+      "PackagePath": "build\\Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Service.props",
+      "PackagePath": "buildMultiTargeting\\Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Service.props",
+      "PackagePath": "buildTransitive\\Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

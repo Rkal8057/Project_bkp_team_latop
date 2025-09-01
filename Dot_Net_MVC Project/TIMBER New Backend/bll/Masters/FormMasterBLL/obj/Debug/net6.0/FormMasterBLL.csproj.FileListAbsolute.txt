@@ -1,0 +1,56 @@
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.AssemblyReference.cache
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfoInputs.cache
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfo.cs
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.CoreCompileInputs.cache
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.deps.json
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.runtimeconfig.json
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.pdb
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\LoginDB.dll
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.CopyComplete
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\refint\FormMasterBLL.dll
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.pdb
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.genruntimeconfig.cache
+C:\Project\School SoftWare\bll\Master\FormMasterBLL\obj\Debug\net6.0\ref\FormMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\refint\FormMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMast.E3CE2F6C.Up2Date
+D:\WebApps\timber\backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\ref\FormMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\FormMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\refint\FormMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\FormMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\obj\Debug\net6.0\ref\FormMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\FormMasterBLL\bin\Debug\net6.0\MySqlConnector.dll

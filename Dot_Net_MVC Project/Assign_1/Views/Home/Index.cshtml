@@ -1,0 +1,120 @@
+﻿
+@model Assign_1.Models.User
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<main>
+
+    <div class="row">
+        <div>
+            <h1> User Signup </h1>
+
+            @if (!string.IsNullOrEmpty(ViewBag.InsertMessage))
+            {
+                <p style="color: green; font-weight: bold;">@Html.Raw(ViewBag.InsertMessage)</p>
+            }
+
+            <p>@ViewBag.userId</p>
+
+            @{ Html.BeginForm("CreateUser", "Home", FormMethod.Post);}
+
+            @Html.LabelFor(m => m.Name, htmlAttributes: new { @class = "label-class" })
+            @Html.TextBoxFor(m => m.Name, htmlAttributes: new { @class = "textbox-class" })
+
+            @Html.LabelFor(m => m.Email, htmlAttributes: new { @class = "label-class" })
+            @Html.TextBoxFor(m => m.Email, htmlAttributes: new { @class = "textbox-class" })
+
+            @Html.LabelFor(m => m.Address, htmlAttributes: new { @class = "label-class" })
+            @Html.TextBoxFor(m => m.Address, htmlAttributes: new { @class = "textbox-class" })
+
+            @Html.LabelFor(m => m.Post, htmlAttributes: new { @class = "label-class" })
+            @Html.TextBoxFor(m => m.Post, htmlAttributes: new { @class = "textbox-class" })
+
+            <button type="submit" value="submit" class="">submit</button>
+
+            @{Html.EndForm();}
+
+        </div>
+
+        @if (ViewBag.userArrayData != null)
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(m => m.Name)</th>
+                        <th>@Html.DisplayNameFor(m => m.Email)</th>
+                        <th>@Html.DisplayNameFor(m => m.Post)</th>
+                        <th>@Html.DisplayNameFor(m => m.Address)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in ViewBag.userArrayData)
+                    {
+                        <tr>
+                            <td>@user.Name</td>
+                            <td>@user.Email</td>
+                            <td>@user.Post</td>
+                            <td>@user.Address</td>
+                            <td>@Html.ActionLink("Edit", "EditUser", "Home", new { userId = user.id }, "")</td>
+                            <td>@Html.ActionLink("Delete", "DeleteUser", "Home", new { userId = user.id }, "")</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        }
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    @Html.Partial("edit_view");
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Launch demo modal
+</button>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#exampleModal').click(function () {
+                var url = "/Home/EditUser";
+
+                $.ajax({
+                    url: url,
+                    method: "GET",
+                    success: function (data) {
+                        $('#myModal').html(data).modal('show');
+                    },
+                    error: function (xhr, status, error) {
+                        // Handle error if needed
+                        console.log(error);
+                    }
+                });
+            });
+        });
+
+    </script>
+}

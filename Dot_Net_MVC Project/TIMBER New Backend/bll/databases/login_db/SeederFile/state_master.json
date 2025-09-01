@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "State_Id": 1,
+    "State_Name": "Andaman and Nicobar Islands",
+    "State_Code": "35",
+    "State_Short_Name": "AN"
+  },
+  {
+    "id": 2,
+    "State_Id": 2,
+    "State_Name": "Andhra Pradesh",
+    "State_Code": "28",
+    "State_Short_Name": "AP"
+  },
+  {
+    "id": 3,
+    "State_Id": 3,
+    "State_Name": "Andhra Pradesh (New)",
+    "State_Code": "37",
+    "State_Short_Name": "AD"
+  },
+  {
+    "id": 4,
+    "State_Id": 4,
+    "State_Name": "Arunachal Pradesh",
+    "State_Code": "12",
+    "State_Short_Name": "AR"
+  },
+  {
+    "id": 5,
+    "State_Id": 5,
+    "State_Name": "Assam",
+    "State_Code": "18",
+    "State_Short_Name": "AS"
+  },
+  {
+    "id": 6,
+    "State_Id": 6,
+    "State_Name": "Bihar",
+    "State_Code": "10",
+    "State_Short_Name": "BH"
+  },
+  {
+    "id": 7,
+    "State_Id": 7,
+    "State_Name": "Chandigarh",
+    "State_Code": "04",
+    "State_Short_Name": "CH"
+  },
+  {
+    "id": 8,
+    "State_Id": 8,
+    "State_Name": "Chattisgarh",
+    "State_Code": "22",
+    "State_Short_Name": "CT"
+  },
+  {
+    "id": 9,
+    "State_Id": 9,
+    "State_Name": "Dadra and Nagar Haveli",
+    "State_Code": "26",
+    "State_Short_Name": "DN"
+  },
+  {
+    "id": 10,
+    "State_Id": 10,
+    "State_Name": "Daman and Diu",
+    "State_Code": "25",
+    "State_Short_Name": "DD"
+  },
+  {
+    "id": 11,
+    "State_Id": 11,
+    "State_Name": "Delhi",
+    "State_Code": "07",
+    "State_Short_Name": "DL"
+  },
+  {
+    "id": 12,
+    "State_Id": 12,
+    "State_Name": "Goa",
+    "State_Code": "30",
+    "State_Short_Name": "GA"
+  },
+  {
+    "id": 13,
+    "State_Id": 13,
+    "State_Name": "Gujarat",
+    "State_Code": "24",
+    "State_Short_Name": "GJ"
+  },
+  {
+    "id": 14,
+    "State_Id": 14,
+    "State_Name": "Haryana",
+    "State_Code": "06",
+    "State_Short_Name": "HR"
+  },
+  {
+    "id": 15,
+    "State_Id": 15,
+    "State_Name": "Himachal Pradesh",
+    "State_Code": "02",
+    "State_Short_Name": "HP"
+  },
+  {
+    "id": 16,
+    "State_Id": 16,
+    "State_Name": "Jammu and Kashmir",
+    "State_Code": "01",
+    "State_Short_Name": "JK"
+  },
+  {
+    "id": 17,
+    "State_Id": 17,
+    "State_Name": "Jharkhand",
+    "State_Code": "20",
+    "State_Short_Name": "JH"
+  },
+  {
+    "id": 18,
+    "State_Id": 18,
+    "State_Name": "Karnataka",
+    "State_Code": "29",
+    "State_Short_Name": "KA"
+  },
+  {
+    "id": 19,
+    "State_Id": 19,
+    "State_Name": "Kerala",
+    "State_Code": "32",
+    "State_Short_Name": "KL"
+  },
+  {
+    "id": 20,
+    "State_Id": 20,
+    "State_Name": "Lakshadweep Islands",
+    "State_Code": "31",
+    "State_Short_Name": "LD"
+  },
+  {
+    "id": 21,
+    "State_Id": 21,
+    "State_Name": "Madhya Pradesh",
+    "State_Code": "23",
+    "State_Short_Name": "MP"
+  },
+  {
+    "id": 22,
+    "State_Id": 22,
+    "State_Name": "Maharashtra",
+    "State_Code": "27",
+    "State_Short_Name": "MH"
+  },
+  {
+    "id": 23,
+    "State_Id": 23,
+    "State_Name": "Manipur",
+    "State_Code": "14",
+    "State_Short_Name": "MN"
+  },
+  {
+    "id": 24,
+    "State_Id": 24,
+    "State_Name": "Meghalaya",
+    "State_Code": "17",
+    "State_Short_Name": "ME"
+  },
+  {
+    "id": 25,
+    "State_Id": 25,
+    "State_Name": "Mizoram",
+    "State_Code": "15",
+    "State_Short_Name": "MI"
+  },
+  {
+    "id": 26,
+    "State_Id": 26,
+    "State_Name": "Nagaland",
+    "State_Code": "13",
+    "State_Short_Name": "NL"
+  },
+  {
+    "id": 27,
+    "State_Id": 27,
+    "State_Name": "Odisha",
+    "State_Code": "21",
+    "State_Short_Name": "OR"
+  },
+  {
+    "id": 28,
+    "State_Id": 28,
+    "State_Name": "Pondicherry",
+    "State_Code": "34",
+    "State_Short_Name": "PY"
+  },
+  {
+    "id": 29,
+    "State_Id": 29,
+    "State_Name": "Punjab",
+    "State_Code": "03",
+    "State_Short_Name": "PB"
+  },
+  {
+    "id": 30,
+    "State_Id": 30,
+    "State_Name": "Rajasthan",
+    "State_Code": "08",
+    "State_Short_Name": "RJ"
+  },
+  {
+    "id": 31,
+    "State_Id": 31,
+    "State_Name": "Sikkim",
+    "State_Code": "11",
+    "State_Short_Name": "SK"
+  },
+  {
+    "id": 32,
+    "State_Id": 32,
+    "State_Name": "Tamil Nadu",
+    "State_Code": "33",
+    "State_Short_Name": "TN"
+  },
+  {
+    "id": 33,
+    "State_Id": 33,
+    "State_Name": "Telangana",
+    "State_Code": "36",
+    "State_Short_Name": "TS"
+  },
+  {
+    "id": 34,
+    "State_Id": 34,
+    "State_Name": "Tripura",
+    "State_Code": "16",
+    "State_Short_Name": "TR"
+  },
+  {
+    "id": 35,
+    "State_Id": 35,
+    "State_Name": "Uttar Pradesh",
+    "State_Code": "09",
+    "State_Short_Name": "UP"
+  },
+  {
+    "id": 36,
+    "State_Id": 36,
+    "State_Name": "Uttarakhand",
+    "State_Code": "05",
+    "State_Short_Name": "UT"
+  },
+  {
+    "id": 37,
+    "State_Id": 37,
+    "State_Name": "West Bengal",
+    "State_Code": "19",
+    "State_Short_Name": "WB"
+  }
+]

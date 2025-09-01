@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "d560puIp1Of9okdZTQRO0GCR9tzIBTtUvb00zZK5WkE=",
+  "Source": "Bill",
+  "BasePath": "_content/Bill",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bill\\wwwroot",
+      "Source": "Bill",
+      "ContentRoot": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\Common_Image\\G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Identity": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\Common_Image\\PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Identity": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\Common_Image\\TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Dot_Net_MVC Project\\TIMBER Backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    }
+  ]
+}

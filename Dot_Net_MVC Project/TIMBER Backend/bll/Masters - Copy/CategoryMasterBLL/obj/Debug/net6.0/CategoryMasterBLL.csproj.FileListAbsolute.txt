@@ -1,0 +1,60 @@
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\refint\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\ref\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\refint\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\ref\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\refint\CategoryMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\CategoryMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\CategoryMasterBLL\obj\Debug\net6.0\ref\CategoryMasterBLL.dll

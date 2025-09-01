@@ -1,0 +1,99 @@
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\refint\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\ref\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\refint\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\ref\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\refint\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\ref\PartyMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.pdb
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMas.E2A28FD1.Up2Date
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\refint\PartyMasterDLL.dll
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.pdb
+D:\WebApps\timber\backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\ref\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.deps.json
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\refint\PartyMasterDLL.dll
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\PartyMasterDLL.pdb
+D:\Project\Dot_Net_MVC Project\TIMBER New Backend\bll\Masters\PartyMasterDLL\obj\Debug\net6.0\ref\PartyMasterDLL.dll

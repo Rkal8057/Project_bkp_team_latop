@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "BVsFzuZPP7e7yU61nq9fcMUqmID2mGlca+Fjqpp5Ops=",
+  "Source": "Bill",
+  "BasePath": "_content/Bill",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bill\\wwwroot",
+      "Source": "Bill",
+      "ContentRoot": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\Common_Image\\G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\G0yfM6xEin_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Identity": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\Common_Image\\PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\PkSGhkjQVQ_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    },
+    {
+      "Identity": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\Common_Image\\TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "SourceId": "Bill",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApps\\timber\\backend\\Api\\Timber\\wwwroot\\",
+      "BasePath": "_content/Bill",
+      "RelativePath": "Common_Image/TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Common_Image\\TG7ZrTRNG0_andriyko-podilnyk-jFAG_ixCrsM-unsplash 1.png"
+    }
+  ]
+}

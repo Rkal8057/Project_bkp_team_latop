@@ -1,0 +1,17 @@
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\ReqRecBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\ReqRecBLL.runtimeconfig.json
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\ReqRecBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\ReqRecBLL.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\bin\Debug\net7.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\refint\ReqRecBLL.dll
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.pdb
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ReqRecBLL.genruntimeconfig.cache
+D:\Project\Dot_Net_MVC Project\Team\Team\bll\Masters\ReqRecBLL\obj\Debug\net7.0\ref\ReqRecBLL.dll

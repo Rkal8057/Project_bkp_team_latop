@@ -1,0 +1,60 @@
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\refint\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\ref\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Service\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.deps.json
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.AssemblyReference.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfoInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfo.cs
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.CoreCompileInputs.cache
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.CopyComplete
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\refint\SalesTrxMasterBLL.dll
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\Project\Dot_Net_MVC Project\Bill Software\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\ref\SalesTrxMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.deps.json
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\MySqlConnector.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\bin\Debug\net6.0\LoginDB.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.AssemblyReference.cache
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfoInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.AssemblyInfo.cs
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.csproj.CoreCompileInputs.cache
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrx.E8708EAC.Up2Date
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\refint\SalesTrxMasterBLL.dll
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\SalesTrxMasterBLL.pdb
+D:\WebApps\timber\backend\bll\Masters\SalesTrxMasterBLL\obj\Debug\net6.0\ref\SalesTrxMasterBLL.dll
